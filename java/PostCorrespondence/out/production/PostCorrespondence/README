@@ -1,0 +1,12 @@
+David Bond
+Post Correspondence Problem
+
+I did not get to doing the DFS part of the project,
+so I just printed out the solution from BFS.
+
+Use:
+
+To use you should paste the file path of the text you want to read into the
+String "filename", and where there is the comment: //the file name.
+If this does not work for the file on your computer, you can always uncomment the
+Scanner input part of the code, and use that instead.
