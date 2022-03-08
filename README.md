@@ -8,7 +8,7 @@ The python folder includes a couple programs from when I first started coding (p
 
 C:
 
-The C folder contains several C programs I have created last year while learning the language. Instructions on how to run the code is in the folder.
+The C folder contains several C programs I created last year while learning the language. Instructions on how to run the code is in the folder.
 
 Java:
 
