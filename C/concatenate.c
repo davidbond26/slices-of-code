@@ -1,4 +1,5 @@
-
+//David Bond
+//This program takes two Strings as input, and outputs a new String with both inputed Strings concatanated together.
 
 #include <stdio.h>
 
