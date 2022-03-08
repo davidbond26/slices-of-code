@@ -1,3 +1,7 @@
+//David Bond
+//This program splits a string at each space in the string, and prints each word on a new line.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>     
