@@ -1,5 +1,4 @@
 // David Bond
-// Assignment 4 pt. 1
 // This program generates an array of random integers, takes a number to search for as input, and outputs the number of times that integer appears in the array.
 
 #include <stdio.h>
