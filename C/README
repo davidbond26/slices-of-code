@@ -1,0 +1,6 @@
+Use:
+
+To run all of the C programs, use the command "gcc -filename-" to create an executable file
+Next, use "./-executable_name-" to run the executable file. The default name is "a.out"
+
+There are additional comments within the programs themsevles with details on what each program does.
