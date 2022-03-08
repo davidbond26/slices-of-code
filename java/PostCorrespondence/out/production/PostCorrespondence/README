@@ -1,8 +1,7 @@
 David Bond
 Post Correspondence Problem
 
-I did not get to doing the DFS part of the project,
-so I just printed out the solution from BFS.
+This Program uses the search algorithm "BFS" to solve a domino problem.
 
 Use:
 
