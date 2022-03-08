@@ -1,5 +1,4 @@
 // David Bond
-// Assignment 4 pt. 2
 // This program takes an integer array of size 10 as input, removes duplicates, and outputs the array without duplicates.
 
 #include <stdio.h>
