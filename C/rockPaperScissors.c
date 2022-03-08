@@ -1,5 +1,4 @@
 // David Bond
-// Assignment 6 pt. 2
 // This program is a Rock Paper Scissors game!
 
 #include <stdio.h>
